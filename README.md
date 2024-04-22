@@ -18,12 +18,14 @@ Google does not allow you to make many copies of one table in one click. You can
 6. To call the function, enter
 
 function myFunction() {
+
 	Tabunn.CopyFileById(<function parameters>)
 }
 
 or
 
 function myFunction() {
+
 	Tabunn.CopyMyFiles(<function parameters>)
 }
 
